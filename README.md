@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/emilio-francisco-vazquez-perez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:emiliovpsis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Status Badge"/>
@@ -110,11 +110,11 @@ Estudiante avanzado de **Ingeniería en Sistemas Computacionales** en el **TecNM
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/emilio-francisco-vazquez-perez/">
     <img src="https://img.shields.io/badge/LinkedIn-Emilio%20Vázquez-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:emiliovpsis@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
