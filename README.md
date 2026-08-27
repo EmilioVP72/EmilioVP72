@@ -1,345 +1,368 @@
 # 👋 Emilio Francisco Vázquez Pérez
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=180&section=header&text=Emilio%20Vázquez&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Backend%20%2F%20Full%20Stack%20Software%20Engineer&subfontSize=18&subfontColor=d1d5db" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f172a&height=220&section=header&text=Emilio%20Vázquez&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20%2F%20Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=72&descColor=c4b5fd" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emilio-francisco-vazquez-perez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:emiliovpsis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge"/>
 </p>
 
----
+<br>
 
-## 🚀 Sobre mí
+## ⚡ Backend is where I build. Full Stack is where I deliver.
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales en el TecNM en Celaya**, enfocado principalmente en **desarrollo backend, diseño de APIs y construcción de aplicaciones web full stack**.
+I'm a **Computer Systems Engineering student at TecNM en Celaya**, focused on building web applications, APIs and business systems.
 
-Me interesa especialmente transformar requerimientos de negocio en sistemas mantenibles, escalables y seguros, trabajando desde el diseño de la API y la base de datos hasta el despliegue de la aplicación.
+My strongest area is **backend engineering**: designing APIs, working with relational databases, implementing authentication and business rules, and deploying applications in containerized environments.
 
-Mi experiencia práctica abarca diferentes ecosistemas backend:
+I also enjoy connecting that backend with modern frontend technologies to build complete products.
 
-* **PHP / Laravel / Slim**
-* **Python / FastAPI**
-* **Java / Spring Boot**
-* **PostgreSQL / Supabase**
-* **REST APIs / JWT / autenticación**
-* **Docker / Linux / CI/CD**
-* **React / Vue / TypeScript**
+<br>
 
-Actualmente estoy orientando mi perfil profesional hacia posiciones de **Backend Developer / Software Engineer**, sin dejar de lado el desarrollo Full Stack.
+<div align="center">
 
----
+### 🧠 ENGINEERING PROFILE
 
-## 🧠 Backend & API Engineering
+<table>
+<tr>
+<td align="center" width="25%">
 
-Mi principal área de interés es el desarrollo backend y la construcción de servicios web.
+### ⚙️ Backend
 
-### PHP
+**PHP · Python · Java**
 
-* PHP 8+
-* Laravel
-* Slim Framework 4
-* Laravel Sanctum
-* JWT Authentication
-* Spatie Laravel Permission
-* Eloquent ORM
-* Migrations & Seeders
-* PHPUnit / Pest
-* Composer
+Laravel · FastAPI · Spring Boot
+REST APIs · JWT · RBAC
 
-### Python
+</td>
 
-* Python
-* FastAPI
-* Pydantic
-* SQLAlchemy
-* asyncpg
-* Uvicorn
-* PyJWT
-* python-jose
-* pytest
-* pytest-asyncio
-* python-dotenv
+<td align="center" width="25%">
 
-### Java
+### 🗄️ Data
 
-* Java
-* Spring Boot
-* Spring Data JPA
-* Spring Validation
-* Lombok
-* Maven
+**PostgreSQL · Supabase**
 
----
+SQL · ORM
+Migrations · Relational Design
 
-## 🔌 APIs & Backend Architecture
+</td>
 
-Experiencia desarrollando:
+<td align="center" width="25%">
 
-* RESTful APIs
-* API versioning
-* JSON APIs
-* CRUD services
-* Authentication & Authorization
-* JWT
-* Role & Permission Management
-* Request validation
-* Business rules
-* Error handling
-* Bulk operations
-* Database-driven APIs
-* API documentation
-* Swagger / OpenAPI
-* Integration with third-party services
+### 🐳 DevOps
 
-He trabajado con arquitecturas backend utilizando **MVC, separación por capas, ORM y servicios desacoplados**, dependiendo de las necesidades del proyecto.
+**Docker · Linux**
+
+Git · GitHub Actions
+CI/CD · Server Deployment
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨 Frontend
+
+**React · Vue · Angular**
+
+TypeScript · Vite
+Tailwind · State Management
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
 
-## 🗄️ Databases & Data
+# 🛠️ My Stack
 
-* PostgreSQL
-* Supabase
-* MySQL
-* SQL
-* Eloquent ORM
-* SQLAlchemy
-* Spring Data JPA
-* Database migrations
-* Seeders
-* Relational database design
+<div align="center">
 
----
+### Backend
 
-## 🐳 DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,java,spring" />
 
-También tengo experiencia trabajando más allá del código de la aplicación.
+<br><br>
 
-* Docker
-* Docker Compose
-* Linux
-* Bash
-* Git
-* GitHub Actions
-* CI/CD
-* Environment configuration
-* Server deployment
-* Containerized applications
-* Composer
-* npm
-* Maven
-* Linux server administration
+### Databases & Infrastructure
 
-Me interesa especialmente automatizar el camino entre **código → build → testing → deployment**.
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,bash" />
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vue,angular,vite,tailwind" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,composer,npm,maven" />
+
+</div>
 
 ---
 
-## 🎨 Frontend
+# 📊 Engineering Focus
 
-Aunque mi enfoque principal está en backend, también desarrollo interfaces y aplicaciones completas.
+```mermaid
+pie showData
+    title Technology Focus Across My Projects
+    "Backend & APIs" : 40
+    "Frontend" : 25
+    "Databases" : 15
+    "DevOps & Infrastructure" : 15
+    "Testing & Tooling" : 5
+```
 
-### React Ecosystem
+<div align="center">
 
-* React
-* TypeScript
-* Vite
-* React Router
-* TanStack React Query
-* TanStack React Table
-* Zustand
-* React Hook Form
-* Zod
-* Axios
-* Radix UI
+| 🧩 Area          | Technologies                                                 |
+| :--------------- | :----------------------------------------------------------- |
+| **Backend**      | PHP · Laravel · Slim · Python · FastAPI · Java · Spring Boot |
+| **APIs**         | REST · JWT · Sanctum · Swagger/OpenAPI · Webhooks            |
+| **Data**         | PostgreSQL · Supabase · MySQL · SQLAlchemy · Eloquent · JPA  |
+| **Frontend**     | React · Vue · Angular · TypeScript · JavaScript              |
+| **DevOps**       | Docker · Docker Compose · Linux · Bash · GitHub Actions      |
+| **Testing**      | PHPUnit · Pest · pytest · pytest-asyncio                     |
+| **Integrations** | Mercado Pago · Supabase · External REST APIs · PDF · Excel   |
 
-### Vue Ecosystem
+</div>
 
-* Vue 3
-* TypeScript
-* Vite
-* Pinia
-* Vue Router
-* Chart.js
-* Vue Chart.js
-
-### Otros
-
-* Angular
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
+> *The chart represents the areas that appear most consistently throughout my projects, rather than subjective skill percentages.*
 
 ---
 
-## 💳 Integraciones & Servicios
+# 🚀 Selected Projects
 
-He trabajado con integraciones entre aplicaciones y servicios externos, incluyendo:
+<div align="center">
 
-* Supabase
-* Mercado Pago
-* REST APIs
-* Webhooks
-* Authentication providers
-* External APIs
-* Payment integrations
-* Data import/export
-* PDF generation
-* Excel generation
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 🧪 Testing & Code Quality
-
-* PHPUnit
-* Pest
-* pytest
-* pytest-asyncio
-* Validation
-* API testing
-* Static analysis / linting
-* Git workflows
-* Environment isolation
-
----
-
-## 🔥 Proyectos destacados
-
-### 🍕 Pronto Pizza — Full Stack Application
-
-Aplicación full stack orientada a la gestión de un negocio de alimentos.
-
-**Backend**
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `asyncpg` `Pydantic` `JWT` `Supabase`
-
-**Frontend**
-
-`React` `TypeScript` `Vite` `TanStack Query` `Zustand` `React Hook Form` `Zod` `Tailwind`
-
-Proyecto enfocado en separar claramente frontend y backend mediante APIs, autenticación, persistencia relacional y comunicación con servicios externos.
-
----
-
-### 🏢 Soft Admin — Business Management Platform
-
-Sistema administrativo full stack desarrollado con una arquitectura separada de frontend y backend.
-
-**Backend**
-
-`PHP` `Laravel` `PostgreSQL` `JWT` `Sanctum` `PHPSpreadsheet` `Browsershot`
-
-**Frontend**
-
-`Vue 3` `TypeScript` `Pinia` `Vue Router` `Chart.js` `Tailwind`
-
-Incluye generación de documentos, manejo de información empresarial, autenticación, APIs y visualización de datos.
-
----
-
-### 🔐 APIs Access — REST API
-
-Backend desarrollado con **PHP + Slim Framework 4** para administrar información relacionada con sistemas de control de acceso.
-
-Incluye:
-
-* REST API
-* API versioning
-* CRUD operations
-* Bulk operations
-* Business rules
-* Validations
-* JSON responses
-* Docker
-
----
-
-### 🛒 E-Commerce Supplements
-
-Sistema de comercio electrónico construido con Laravel.
-
-**Tech Stack**
-
-`PHP` `Laravel` `PostgreSQL/MySQL` `Sanctum` `Spatie Permission` `Mercado Pago` `PHPSpreadsheet` `HTML2PDF` `Pest`
-
-Incluye autenticación, autorización basada en roles, gestión de productos, pagos, generación de documentos y pruebas automatizadas.
-
----
-
-### 🍽️ Restaurant Reservation System
-
-Aplicación full stack para gestión de reservas.
-
-**Backend**
-
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Maven`
-
-**Frontend**
-
-`Angular` `TypeScript`
-
-Proyecto orientado a la construcción de APIs y gestión de reservas mediante una arquitectura backend basada en Spring.
-
----
-
-## 🧰 Technology Overview
+<h2 align="center">🍕 Pronto Pizza</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,java,spring,postgres,mysql,supabase,docker,linux,bash,git,github,githubactions,react,typescript,vue,angular,vite,tailwind" />
-
-</p>
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmilioVP72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioVP72&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<b>Full Stack Business Platform</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilioVP72&theme=tokyonight&hide_border=true" width="96%" />
+A complete application combining a modern React frontend with a Python backend and PostgreSQL persistence.
 </p>
 
----
-
-## 🎯 Currently
-
-Estoy enfocado en seguir profundizando en:
-
-* Backend Engineering
-* Diseño de APIs
-* Arquitectura de software
-* PostgreSQL & database design
-* Docker & Linux
-* CI/CD
-* Seguridad de aplicaciones
-* Cloud & deployment
-* Sistemas distribuidos
-
----
-
-## 📬 Contacto
-
-¿Tienes un proyecto, propuesta laboral o simplemente quieres hablar de tecnología?
-
-**Let's build something useful. 🚀**
+<p align="center">
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emilio-francisco-vazquez-perez/">
-    <img src="https://img.shields.io/badge/LinkedIn-Emilio%20Vázquez-blue?style=flat&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:emiliovpsis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
+<a href="https://github.com/EmilioVP72/Pronto_Pizza_Backend">Backend →</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/EmilioVP72/Pronto_Pizza_Frontend">Frontend →</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🏢 Soft Admin</h2>
+
+<p align="center">
+<b>Business Management Platform</b>
+</p>
+
+<p align="center">
+Administrative system built with a Laravel backend and modern Vue frontend, focused on business workflows and data management.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/EmilioVP72/Soft_Admin">View Project →</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🔐 APIs Access</h2>
+
+<p align="center">
+<b>REST API Engineering</b>
+</p>
+
+<p align="center">
+Backend service focused on REST APIs, validation, business rules, CRUD operations and bulk data management.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slim-4-74B9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-API-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/EmilioVP72/Apis_access">View Project →</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🛒 E-Commerce</h2>
+
+<p align="center">
+<b>Laravel E-Commerce Platform</b>
+</p>
+
+<p align="center">
+Application combining authentication, role-based permissions, payments, document generation and automated testing.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mercado%20Pago-00B1EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pest-8b5cf6?style=flat-square"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/EmilioVP72/E-Commerce_Suplements">View Project →</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🏗️ What I Like Building
+
+<div align="center">
+
+```text
+                ┌─────────────────────┐
+                │      BUSINESS       │
+                │      PROBLEM        │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │       BACKEND       │
+                │                     │
+                │ APIs · Logic · Auth │
+                └──────────┬──────────┘
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+       ┌──────────────┐          ┌──────────────┐
+       │  DATABASE    │          │   SERVICES   │
+       │              │          │              │
+       │ PostgreSQL   │          │ REST / APIs  │
+       │ Supabase     │          │ Payments     │
+       └──────────────┘          └──────────────┘
+              │                         │
+              └────────────┬────────────┘
+                           ▼
+                ┌─────────────────────┐
+                │       DOCKER        │
+                │       LINUX         │
+                │       CI / CD       │
+                └─────────────────────┘
+```
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EmilioVP72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioVP72&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilioVP72&theme=tokyonight&hide_border=true" width="96%"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+**Backend Architecture**
+`System Design` · `API Architecture` · `Security`
+
+**Infrastructure**
+`Docker` · `Linux` · `CI/CD` · `Cloud`
+
+**Data**
+`PostgreSQL` · `Database Design` · `Performance`
+
+</div>
+
+---
+
+# 🎯 My Approach
+
+<div align="center">
+
+> **Build it. Understand it. Automate it. Improve it.**
+
+I enjoy taking a real-world problem, turning it into a well-structured system,
+and connecting the pieces from **database → backend → API → frontend → deployment**.
+
+</div>
+
+---
+
+<p align="center">
+
+### 🤝 Let's build something useful.
+
+<a href="https://www.linkedin.com/in/emilio-francisco-vazquez-perez/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:emiliovpsis@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f172a&height=120&section=footer"/>
 </p>
